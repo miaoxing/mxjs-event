@@ -30,6 +30,10 @@ export default class extends React.Component {
   }
 
   render() {
-    return <>'     '{this.state.prepend}'     '{this.state.children.length ? this.state.children : (this.props.children || '')}'     '{this.state.append}'   '</>;
+    return <>
+      {this.state.prepend}
+      {this.state.children.length ? this.state.children : (this.props.children || '')}
+      {this.state.append}
+    </>;
   }
 }
