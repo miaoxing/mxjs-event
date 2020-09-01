@@ -1,6 +1,6 @@
 import React from 'react';
 import propTypes from 'prop-types';
-import event from './event-api';
+import {event} from '@mxjs/app';
 
 export default class extends React.Component {
   static propTypes = {
