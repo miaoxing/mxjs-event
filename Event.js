@@ -5,6 +5,7 @@ import {event} from '@mxjs/app';
 export default class extends React.Component {
   static propTypes = {
     name: propTypes.string,
+    children: propTypes.node,
   };
 
   state = {
