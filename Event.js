@@ -1,8 +1,8 @@
-import React from 'react';
+import { Component } from 'react';
 import propTypes from 'prop-types';
 import {event} from '@mxjs/app';
 
-export default class extends React.Component {
+export default class extends Component {
   static propTypes = {
     name: propTypes.string,
     children: propTypes.node,
