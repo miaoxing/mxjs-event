@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/event",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "prop-types": "^15.7.2",
-    "@mxjs/app": "^0.5.0"
+    "@mxjs/app": "^0.5.1"
   },
   "devDependencies": {
     "@miaoxing/dev": "^8.1.1",
