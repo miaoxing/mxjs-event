@@ -1,3 +1,19 @@
+# [1.0.0](https://github.com/miaoxing/mxjs-event/compare/v0.3.6...v1.0.0) (2022-07-01)
+
+
+### Features
+
+* 发布 1.0.0 [release 1.0.0] ([4029661](https://github.com/miaoxing/mxjs-event/commit/402966157fc7fdd45a24d11dd67c7bd43bcd6a37))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/app:** upgrade from `0.5.1` to `0.5.2`
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.3.6](https://github.com/miaoxing/mxjs-event/compare/v0.3.5...v0.3.6) (2022-06-06)
 
 
