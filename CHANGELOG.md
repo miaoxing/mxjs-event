@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/miaoxing/mxjs-event/compare/v1.0.9...v1.1.0) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([845bdcf](https://github.com/miaoxing/mxjs-event/commit/845bdcf9d02c181f394eeb2b8c730fb6365682cd))
+
 ## [1.0.9](https://github.com/miaoxing/mxjs-event/compare/v1.0.8...v1.0.9) (2024-01-08)
 
 
