@@ -1,3 +1,19 @@
+## [1.1.4](https://github.com/miaoxing/mxjs-event/compare/v1.1.3...v1.1.4) (2024-07-31)
+
+
+### Bug Fixes
+
+* `export default from` 改为标准语法 ([f5cd586](https://github.com/miaoxing/mxjs-event/commit/f5cd58666dd7ba3c4e314bab2abc3a62de46dd61))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/app:** upgrade from `0.8.0` to `0.8.1`
+* **@miaoxing/dev:** upgrade from `9.1.1` to `9.1.2`
+
 ## [1.1.3](https://github.com/miaoxing/mxjs-event/compare/v1.1.2...v1.1.3) (2024-05-30)
 
 
