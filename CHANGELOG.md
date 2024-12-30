@@ -1,3 +1,14 @@
+## [1.1.8](https://github.com/miaoxing/mxjs-event/compare/v1.1.7...v1.1.8) (2024-12-30)
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/app:** upgrade from `0.8.4` to `0.8.5`
+* **@miaoxing/dev:** upgrade from `9.2.0` to `9.3.0`
+
 ## [1.1.7](https://github.com/miaoxing/mxjs-event/compare/v1.1.6...v1.1.7) (2024-11-01)
 
 
